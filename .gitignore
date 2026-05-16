@@ -1,0 +1,10 @@
+.env
+*.db
+__pycache__/
+*.pyc
+.DS_Store
+ngrok.exe
+nexstock.db
+*.egg-info/
+.venv/
+venv/

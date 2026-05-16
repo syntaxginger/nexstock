@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc portfolio_ai_project_summary.docx -o portfolio_summary.md)",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"D:\\\\project with claude\\\\NexStock\\\\backend\\\\models\")",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"D:\\\\project with claude\\\\NexStock\\\\backend\\\\services\")",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"D:\\\\project with claude\\\\NexStock\\\\backend\\\\api\")",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"D:\\\\project with claude\\\\NexStock\\\\backend\\\\scheduler\")"
+    ]
+  }
+}
